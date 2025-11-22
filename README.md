@@ -11,7 +11,3 @@ AI Sales Forecasting App is a machine learning-based tool designed to predict fu
 - Export predictions for reporting.
 
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AI-Sales-Forecasting-App.git
